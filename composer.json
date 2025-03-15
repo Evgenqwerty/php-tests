@@ -1,0 +1,17 @@
+{
+    "name": "evgeniy/php-tests",
+    "autoload": {
+        "psr-4": {
+            "Evgeniy\\PhpTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "evgeniy",
+            "email": "uhvatkin.e@gigwork.ru"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
