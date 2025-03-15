@@ -1,6 +1,7 @@
 {
     "name": "evgeniy/php-tests",
     "autoload": {
+	"files": ["src/StringUtils.php"],    
         "psr-4": {
             "Evgeniy\\PhpTests\\": "src/"
         }
